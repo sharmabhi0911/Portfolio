@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://sv-dev.netlify.app/" target="_blank">Sv.dev</a>
+  <a href="https://portfolio-abhishek-sharma-main.vercel.app" target="_blank">Sv.dev</a>
 </h2>
 
 <div align="center">
@@ -49,18 +49,3 @@ To run this project locally, follow these steps:
    ```bash
    npm run start
    ```
-
-## Contact
-
-If you have any questions, suggestions, or would like to collaborate, feel free to reach out!
-
-- **Email**: v.snaichuk@gmail.com
-- **GitHub**: [vsnaichuk](https://github.com/vsnaichuk)
-- **LinkedIn**: [vsnaichuk](https://www.linkedin.com/in/vsnaichuk/)
-- **Twitter**: [v_snaichuk](https://twitter.com/v_snaichuk)
-
-Looking forward to hearing from you!
-
-## Credits
-
-Website design inspired by [Soumyajit4419's portfolio](https://github.com/soumyajit4419/Portfolio)
