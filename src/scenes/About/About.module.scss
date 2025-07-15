@@ -1,0 +1,129 @@
+.content {
+  padding: 9rem 9rem 3rem;
+}
+
+.about {
+  padding-left: .2rem;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.aboutImg {
+  width: 40%;
+  min-width: 320px;
+  padding: 4rem 1rem 5rem 1rem;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10rem;
+  }
+}
+
+.title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 2rem;
+  padding: 20px
+}
+
+.skills {
+  @extend .title;
+  font-size: 2.2rem;
+  padding-top: 3rem;
+}
+
+.githubActivity {
+  @extend .title;
+  font-size: 2.2rem;
+  padding-top: 4rem;
+}
+
+.purple {
+  color: var(--txt-secondary);
+}
+
+
+@media (max-width: 925px) {
+  .content {
+    padding: 6rem 3rem 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .about {
+    flex-wrap: wrap;
+  }
+}
+
+.experienceCard {
+  background-color: #f5f5fa; /* Light neutral background */
+  padding: 1.5rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  box-shadow: 0 0 10px rgba(128, 0, 128, 0.1);
+  color: black; /* Set default text color to dark gray */
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.expHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.expHeader h3 {
+  font-size: 1.25rem;
+  color: #1e1e1e;
+}
+
+.expHeader p {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.expRole {
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.expList {
+  list-style: disc;
+  padding-left: 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: black; /* Text in the list should be clearly visible */
+}
+
+/* Responsive Styles */
+@media (min-width: 600px) {
+  .expHeader {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .experienceCard {
+    padding: 2rem;
+  }
+
+  .expHeader h3 {
+    font-size: 1.5rem;
+  }
+
+  .expHeader p,
+  .expRole {
+    font-size: 1rem;
+    color: black;
+  }
+
+  .expList {
+    font-size: 1rem;
+  }
+}
+
