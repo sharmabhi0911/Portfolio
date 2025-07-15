@@ -27,13 +27,13 @@ const About = () => {
         </h2>
         <div className={s.experienceCard}>
           <div className={s.expHeader}>
-            <h3>GrowSpace M2M</h3>
+            <h3>GrowSpace M2M Service Provider</h3>
             <p>
-              <strong>04/2025 - Present</strong>
+              <strong>On-site&nbsp;&nbsp;&nbsp;04/2025 - Present</strong>
             </p>
           </div>
           <p className={s.expRole}>
-            <i>Software Development Engineer Intern – On-site</i>
+            <i>Software Development Engineer Intern</i>
           </p>
           <ul className={s.expList}>
             <li>

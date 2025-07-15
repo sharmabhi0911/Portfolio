@@ -14,18 +14,18 @@ const AboutTextCard = () => {
         <p>
           I’ve completed my Bachelor’s degree in Computer Science and 
           <br />
-          Engineering with a CGPA of 9.16 from Dr. Akhilesh Das Gupta 
+          Engineering with a CGPA of 9.16 from Dr. Akhilesh Das Gupta Institute 
           <br />
-          Institute of Professional Studies and I also hold a Diploma 
+          of Professional Studies and I also hold a Diploma in Mechanical 
           <br/>
-          in Mechanical Engineering from Prem Mahavidyalay Polytechnic.
+          Engineering from Prem Mahavidyalay Polytechnic.
         </p>
         <p>
           I specialize in front-end development and I am currently  
           <br />
-          exploring back-end development to become a well-rounded 
+          exploring back - end development to become a well - rounded 
           <br/>
-          full-stack developer.
+          full - stack developer.
         </p>
         <p>
           Passionate about continuous learning and improvement, always 
