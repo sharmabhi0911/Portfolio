@@ -14,7 +14,7 @@ const AboutTextCard = () => {
         <p>
           I’ve completed my Bachelor’s degree in Computer Science and 
           <br />
-          Engineering with a CGPA of 9.17 from Dr. Akhilesh Das Gupta Institute 
+          Engineering with a CGPA of 9.167 from Dr. Akhilesh Das Gupta Institute 
           <br />
           of Professional Studies and I also hold a Diploma in Mechanical 
           <br/>
